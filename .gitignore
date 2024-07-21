@@ -2,4 +2,3 @@ logs/
 main.logs
 *.log
 bin/
-code.text
