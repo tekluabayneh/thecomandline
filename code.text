@@ -1,1 +1,2 @@
 echo > the echo-word is to add text to the file
+git ls-files > this i suse to see how many fil i have in the local git 
